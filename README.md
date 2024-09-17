@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Fadhil2005
-- Baru Mencoba
+- baru belajar

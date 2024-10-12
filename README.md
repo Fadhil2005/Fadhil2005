@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Fadhil2005
-- baru belajar
+- 👋 Hi, I’m Fadhil Pratama

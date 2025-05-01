@@ -21,5 +21,5 @@
 ![https://www.facebook.com/share/18mc1qao8X/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 #### My Github Stats
-![Fadhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadhil2005&show_icons=true)]
+![Fadhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadhil2005&show_icons=true&theme=cobalt)]
 

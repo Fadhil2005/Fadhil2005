@@ -2,6 +2,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
+
+<h3 align=left> About Me </h3>
+
+- :school: I am a `Student` at [Faculty of Engineering](https://teknik.univpancasila.ac.id/) at [Pancasila
+  University](https://univpancasila.ac.id/).
+- :student: I’m currently learn `Website Design` and `Software Engineering`.
+- :nerd_face: Always `learn something new`.
+<br><br>
+
 <div align="center">
 <h2>Connect With Me</h2>
 <a href="https://www.linkedin.com/in/fadhil-pratama-58326a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -14,6 +23,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 <br><br>
+
 <h2>Skills</h2> 
 <div display = "flex">
   <h3>Programming Languages</h3>

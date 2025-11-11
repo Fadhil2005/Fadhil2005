@@ -71,7 +71,13 @@
   <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white " />
 </div>
+
 <br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadhil2005&show_icons=true&theme=radical" alt="Fadhil2005 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhil2005&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
 <div align="center">
     
   ## ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)

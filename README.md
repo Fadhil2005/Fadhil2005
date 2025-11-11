@@ -1,9 +1,12 @@
-<h1 align="center">Hi, I'm Fadhil Pratama👋</h1>
+<p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=25&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=+++++Hi%2C+I'm+Fadhil+Pratama%F0%9F%91%8B%3C++++Entry-level+learner;%3C+++Web+enthusiast(%E2%97%8F'%E2%97%A1'%E2%97%8F)" alt="Typing SVG" /></a>
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
-<h3 align=left> About Me </h3>
+<h3 align=left>👨‍💻 About Me </h3>
 
 - :school: I am a `Student` at [Faculty of Engineering](https://teknik.univpancasila.ac.id/) at [Pancasila
   University](https://univpancasila.ac.id/).
@@ -12,7 +15,7 @@
 <br><br>
 
 <div align="center">
-<h2>Connect With Me</h2>
+<h2>🌍 Connect With Me</h2>
 <a href="https://www.linkedin.com/in/fadhil-pratama-58326a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/fadhil_4951?utm_source=qr&igsh=dTZqZ2o3YmNnemdv">
@@ -24,7 +27,7 @@
 </div>
 <br><br>
 
-<h2>Skills</h2> 
+<h2>🛠️ Skills</h2> 
 <div display = "flex">
   <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

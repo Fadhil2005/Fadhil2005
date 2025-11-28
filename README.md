@@ -16,14 +16,14 @@
 
 <div align="center">
 <h2>🌍 Connect With Me</h2>
-<a href="https://www.linkedin.com/in/fadhil-pratama-58326a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/fadhil_4951?utm_source=qr&igsh=dTZqZ2o3YmNnemdv">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@lutoh0_0?is_from_webapp=1&sender_device=pc">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/18mc1qao8X/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/fadhil-pratama-58326a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/fadhil_4951?utm_source=qr&igsh=dTZqZ2o3YmNnemdv">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.tiktok.com/@lutoh0_0?is_from_webapp=1&sender_device=pc">
+      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+    <a href="https://www.facebook.com/share/18mc1qao8X/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 <br><br>
 
@@ -71,7 +71,9 @@
 
 <br><br>
 <div align="center">
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Fadhil2005&show_icons=true&theme=radical" alt="Fadhil2005 GitHub stats" />
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhil2005&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
